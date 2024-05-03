@@ -8,6 +8,7 @@ detect objects in a sample video or real-time footage from a camera.
 The CV model divides the input video into frames and further
 simplifies these frames into content viewable by the contours and
 draws contours around the detected object.
+
 Aim: We aim to show a preview of how this technology can be used
 further in various sectors (as mentioned in logbook) by further
 enhancements.
